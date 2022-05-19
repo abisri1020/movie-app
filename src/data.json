@@ -1,0 +1,68 @@
+[
+  {
+    "id": "100",
+    "name": "Jai Bhim",
+  poster": "https://moviegalleri.net/wp-content/uploads/2021/07/Actor-Suriya-Jai-Bhim-Movie-First-Look-Poster-HD.jpg",
+    "cast": "Surya, Lijomol Jose, Manikandan",
+    "genre": "Crime",
+    "summary": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. A High Court advocate rises in support to find her husband and seek justice for them.",
+    "director": "TJ Gnanavel",
+    "rating": 9.3,
+    "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA"
+  },
+  {
+    "id": "101",
+    "name": "Soorarai Potru",
+    "poster": "https://www.pinkvilla.com/imageresize/suriya_soorarai_pottru_trailer_release.jpeg?width=752&format=webp&t=pvorg",
+    "cast": "Surya, Aparna Balamurali",
+    "genre": "Drama",
+    "summary": "Maara, a young man from a remote village, dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.",
+    "director": "Sudha Kongara Prasad",
+    "rating": 9.1,
+    "trailer": "https://www.youtube.com/embed/fa_DIwRsa9o"
+  },
+  {
+    "id": "102",
+    "name": "Maanaadu",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjFkMTFjYjgtNDhkNS00MGNmLWJkZWMtZWIwNGYyOWE3MTM0XkEyXkFqcGdeQXVyMTE1MjcwOTA4._V1_.jpg",
+    "cast": "Silambarasan,S.J. Suryah, Y.G.Mahendran",
+    "genre": "Action Sci-Fi Thriller",
+    "summary": "On the day of a public conference by the state's Chief Minister, his bodyguard and a police officer become stuck in a time loop.",
+    "director": "Venkat Prabhu",
+    "rating": 8.7,
+    "trailer": "https://www.youtube.com/embed/t9retstFUlM"
+  },
+  {
+    "id": "103",
+    "name": "Thuppakki",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc4YWY5MzAtOTc4Zi00NDVmLThlMGItYjliOGNkYmM3NDBmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+    "cast": "Vijay, Vidyut Jammwal ",
+    "genre": "Action-Thriller",
+    "summary": "In a bomb blast, an army officer apprehends a sleeper agent who confesses that more bomb attacks are planned around the city; the officer impedes the subsequent blasts and devices a plan to capture the mastermind behind these attacks.",
+    "director": "AR Murugadoss",
+    "rating": 8.1,
+    "trailer": "https://www.youtube.com/embed/s0O44Sn1hD4"
+  },
+  {
+    "id": "104",
+    "name": "Mankatha",
+    "poster": "https://www.infoflick.com/poster/mankatha_1573585635.jpg",
+    "cast": "Ajith Kumar, Arjun Sarja",
+    "genre": "Acton-Crime-thriller",
+    "summary": "Inspector Vinayak is suspended after he lets a smuggler escape. He then meets a group of men who plan to whisk away 500 crore belonging to a gangster. He promises to help them for a share in the loot.",
+    "director": "Venkat Prabhu",
+    "rating": 7.6,
+    "trailer": "https://www.youtube.com/embed/vHESM8iR1JE"
+  },
+  {
+    "id": "105",
+    "name": "Oh Manapenne!",
+    "poster": "https://static.toiimg.com/photo/msid-87019422/Oh%20Manapenne!.jpg?87019422",
+    "cast": "Harish Kalyan, Priya Bhavani Shankar",
+    "genre": "Comedy-Drama-Romance",
+    "summary": "Shruthi, an MBA gold medalist, teams up with Karthik, an underachiever, for launching a food truck. However, fate has more in store for the duo than just a business partnership.",
+    "director": "Kaarthikk Sundar",
+    "rating": 7.4,
+    "trailer": "https://www.youtube.com/embed/1qa_eqdROHE"
+  }
+]
